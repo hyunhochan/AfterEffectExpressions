@@ -1,0 +1,1 @@
+"Lv. " + effect("Slider Control")("Slider").value.toFixed(0)
